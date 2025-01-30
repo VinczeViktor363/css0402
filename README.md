@@ -25,3 +25,6 @@ Alakítsd meg magadtól ezt a weboldalt:
 Használj `pytest`-et az automatikus ellenőrzéshez. Futtatás:
 ```sh
 pytest test_webpage.py
+```
+
+![Minta](minta_0402.png)
